@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name c64modem-rescue)(type Legacy)(uri ${KIPRJMOD}/c64modem-rescue.lib)(options "")(descr ""))
+  (lib (name USERPORT)(type Legacy)(uri ${KIPRJMOD}/USERPORT/USERPORT.lib)(options "")(descr ""))
+)
